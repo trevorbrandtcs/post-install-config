@@ -107,6 +107,6 @@ Finally, we'll add a few Business Help Topics. Business Help Topics are essentia
 <br />
 
 <p>
-This step is completed! We've officially configured osTicket. The <a href="https://github.com/trevorbrandtit/ticket-lifecycle">next section</a> will cover a few example tickets, and how to respond to them.
+This step is completed! We've officially configured osTicket. The <a href="https://github.com/trevorbrandtcs/ticket-lifecycle">next section</a> will cover a few example tickets, and how to respond to them.
 </p>
 <br />
